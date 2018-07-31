@@ -1,0 +1,12 @@
+let firstSet = ["q", "w", "e", "r", "t", "y"];
+let secondSet = ["1", "3", "3", "7"];
+let cluster;
+let array = [...firstSet, ...secondSet];
+console.log(cluster);
+
+
+
+let goodGrades = ["A", "B"];
+let notSoGoodGrades = ["C", "D", "F"];
+let grades;
+grades = [...goodGrades, ...notSoGoodGrades];
