@@ -1,0 +1,9 @@
+let odd = 7;
+let even = 20;
+let greaterThan;
+if(19 > 20 && 19 > 7) {
+    greaterThan = true;
+}
+else {
+    greaterThan = false;
+}
